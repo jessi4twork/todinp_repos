@@ -1,0 +1,1 @@
+Following The Odin Project Foundation Course path, I am creating a recipe html file. Upon completion, this will show skills I have acquired based on my own understanding such as setting up a boilerplate, utilizing elements and attributes, using opening and closing tags when called for.
