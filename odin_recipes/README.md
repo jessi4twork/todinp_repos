@@ -2,7 +2,7 @@
 
 ##Project Journal (recent first)
 
-###May 13, 2026
+###May 14, 2026
 - **Learned #1:** How to edit git commit message before doing git push.
 - **Fixed #1:** Utilized git commit --amend -m "New correct commit message."
 - **Learned #2:** How to remove file from staging area after doing git add but will not delete my code.
