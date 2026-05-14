@@ -2,6 +2,12 @@
 
 ##Project Journal (recent first)
 
+###May 13, 2026
+- **Learned #1:** How to edit git commit message before doing git push.
+- **Fixed #1:** Utilized git commit --amend -m "New correct commit message."
+- **Learned #2:** How to remove file from staging area after doing git add but will not delete my code.
+- **Fixed #2:** Used git restore --staged filename.html
+
 ###May 12, 2026
 - **Learned:** Figured out the `add` -> `commit` -> `push` workflow.
 - **Fixed:** Sent the "delivery truck" with actual packages this time!
