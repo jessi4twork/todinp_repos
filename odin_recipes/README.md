@@ -9,6 +9,8 @@
 - **Fixed #2:** Pressed "q" key to exit.
 - **Learned #3:** Need to save my code in local machine while I `pull` edit I did directly in github.
 - **Fixed #3:** Used git `stash` to temporarily hide my code in local machine.
+- **Learned #3:** Previous steps did not work.
+- **Fixed #3:** Did git `branch journal-backup` to help save the entry I am trying to commit in back up branch so I don't lose it. Then git `checkout main` to force the terminal to leave the detached state and return to my local main branch cause it kept going back to that in a loop. After that, git `reset --hard origin/main` to force my local main branch to match the online github history to clear out mismatch errors. And then, git `merge journal-backup` to bring back the entry from my backup branch. I was able to successfully do git `push origin main`.
 - **Note:** Added eli_wonton.html
 
 ###May 14, 2026
