@@ -2,6 +2,10 @@
 
 ##Project Journal (recent first)
 
+##May 20, 2026##
+- **Note:** Added kimchi_tofu_soup.html and one_pan_pasta.html
+
+
 ###May 18, 2026
 - **Learned #1:** After `add` -> `commit` -> `push` workflow, it failed due to changes I made directly on github.
 - **Fixed #1:** Need to remember using git `pull` first or stick with working on code on local machine to avoid divergent branches.
