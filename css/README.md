@@ -1,6 +1,15 @@
-#Following The Odin Project Foundation Course path, I am editing a css file.
+#Following The Odin Project Foundation Course path. Working on a css file labs.
 
 ##Project Journal (recent first)
+
+###May 29, 2026
+**Added**
+- New directories - restructure-repo and block-and-line
+- 2 html and css files for block-and-line
+**Edited**
+- Created and moved html and css file of same name to appropriate directories
+**Pending**
+- Work on both 01 and 02 html and css files - for reference back on The Odin Project CSS class 5 github link.
 
 ###May 22, 2026
 **Edited:**
