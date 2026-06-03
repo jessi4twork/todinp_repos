@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    background-color: #34186788;
+    color: #cdc9d4db;
+    padding: 20px;
+}
+
+#title {
+    font-size: 36px;
+    color: #cdc9d4;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#nav ul{
+    background-color: #34186788;
+    color: #cdc9d442;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 20px;
+}
+
+#nav a {
+    text-decoration: none;
+    color: #cdc9d4db;
+}
