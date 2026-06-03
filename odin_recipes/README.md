@@ -2,9 +2,15 @@
 
 ##Project Journal (recent first)
 
-##May 20, 2026##
-- **Note:** Added kimchi_tofu_soup.html and one_pan_pasta.html
 
+##June 3, 2026
+- **Moved:** soup, pasta html recipes, and odin_recipes_main.html to recipes directory
+- **Edited:** index.html file name to odin_recipes_main.html
+- **Added:** nav on odin_recipes_main.html
+- **Created:** odin_recipes_main.css
+
+##May 20, 2026
+- **Note:** Added kimchi_tofu_soup.html and one_pan_pasta.html
 
 ###May 18, 2026
 - **Learned #1:** After `add` -> `commit` -> `push` workflow, it failed due to changes I made directly on github.
