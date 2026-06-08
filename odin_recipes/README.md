@@ -2,6 +2,8 @@
 
 ##Project Journal (recent first)
 
+##June 8, 2026
+- **Created:** all 3 recipe html files css versions
 
 ##June 3, 2026
 - **Moved:** soup, pasta html recipes, and odin_recipes_main.html to recipes directory

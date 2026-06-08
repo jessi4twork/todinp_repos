@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-size: 18px;
+    background-color: #6fc069f4;
+    color: #b5e2bcf6;
+    padding: 20px;
+}
+
+h1, p {
+    color: #b5e2bcf6;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+p, ul, ol{
+    background-color: #20711af4;
+    color: #8af096b9;
+    text-indent: 10px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 20px;
+}
