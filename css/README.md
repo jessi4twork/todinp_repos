@@ -3,7 +3,13 @@
 ##Project Journal (recent first)
 
 
-###June 01, 2026###
+
+###July 14, 2026
+* **css-flex/center**
+    * Added link for css on html
+    * Added flexbox centering ('justify-content' and 'align-items')
+
+###June 01, 2026
 **Added**
 - On 01-margin-padding.css:
     - On .three - added top, bottom, right on margin instead of just sticking with margin-left 
