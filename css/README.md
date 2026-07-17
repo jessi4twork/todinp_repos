@@ -3,6 +3,15 @@
 ##Project Journal (recent first)
 
 
+###July 17, 2026
+* **css-flex/header**
+    * Edited link for css on html
+    * Added flexbox stretching the body across the page width using:
+        * `flex-flow: row wrap`
+        * `justify-content: space-evenly`
+        * `flex-grow: 1`
+        * `margin: 0`
+    * Targeted `head, title` with `display: none !important` to hide leaked page metadata caused by the universal selector
 
 ###July 14, 2026
 * **css-flex/center**
