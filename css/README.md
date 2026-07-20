@@ -2,6 +2,12 @@
 
 ##Project Journal (recent first)
 
+###July 20, 2026
+* **css-flex/header-2**
+    * Fixed CSS file link in HTML.
+    * Implemented Flexbox layout: aligned logo and navigation links to `flex-start`.
+    * Utilized `margin-left: auto` to push the notifications button to the `flex-end`.
+
 
 ###July 17, 2026
 * **css-flex/header**
