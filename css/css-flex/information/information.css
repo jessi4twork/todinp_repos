@@ -1,0 +1,43 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: flex-start; 
+}
+
+.title {
+  font-size: 36px;
+  font-weight: 900;
+  flex: 0 0 100%;
+  text-align: center;
+  order: 1;
+  margin-bottom: 30px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  flex: 0 0 22%;
+  order: 2;
+}
+
+.text {
+  flex: 0 0 22%;
+  text-align: center;
+  order: 3;
+  margin-top: 2px;
+}
+
+/* do not edit this footer */
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #eee;
+}

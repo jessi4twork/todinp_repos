@@ -2,6 +2,15 @@
 
 ##Project Journal (recent first)
 
+
+###July 20, 2026
+* **css-flex/information**
+    * Update CSS file link in HTML.
+    * Converted layout to flexbox grid using row wrapping.
+    * Centered the main title horizontally across the page.
+    * Set images and text to percentage-based flex widths.
+    * Used flex order property to group images on top and text below.
+
 ###July 20, 2026
 * **css-flex/header-2**
     * Fixed CSS file link in HTML.
