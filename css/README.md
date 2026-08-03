@@ -2,8 +2,16 @@
 
 ##Project Journal (recent first)
 
+###August 3, 2026
+* **css-flex/layout-1**
+    * Update CSS file link in HTML.
+    * Converted `body` into a flex column to pin the footer to the bottom.
+    * Added Flexbox layout to `.header`, `.footer`, and `.content` containers.
+    * Removed browser default list bullets, margins, and anchor lines.
+    * Applied spacing, margins, and backgrounds to match the mockup.
 
-###July 20, 2026
+
+###July 21, 2026
 * **css-flex/information**
     * Update CSS file link in HTML.
     * Converted layout to flexbox grid using row wrapping.
