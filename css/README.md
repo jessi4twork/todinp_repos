@@ -2,6 +2,16 @@
 
 ##Project Journal (recent first)
 
+
+###August 4, 2026
+* **css-flex/layout-2**
+    * Update CSS file link in HTML.
+    * Fixed body behavior by switching from flex column to block layout.
+    * Implement fixed positioning on sidebar to keep it locked to the left side column.
+    * Implement fixed edge-to-edge layout for the bottom footer.
+    * Convert cards into 250px squares that wrap fluidly across the available workspace.
+    * Clean up default bullet formatting and underlines on sidebar links.
+
 ###August 3, 2026
 * **css-flex/layout-1**
     * Update CSS file link in HTML.
