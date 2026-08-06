@@ -2,6 +2,12 @@
 
 ##Project Journal (recent first)
 
+###August 6, 2026
+* **css-flex/modal**
+    * Update CSS file link in HTML.
+    * Switched layout strategy from normal document flow to absolute positioning.
+    * Balanced left side padding to create mathematically perfect symmetry around the icon.
+    * Aligned the header, icon top, and close button vertically at a unified baseline.
 
 ###August 4, 2026
 * **css-flex/layout-2**
