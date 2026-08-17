@@ -2,6 +2,9 @@
 
 ##Project Journal (recent first)
 
+###August 17, 2026
+* Added font, color, size templates as per instructions.
+
 ###August 7, 2026
 * Created directory and files for project.
 * Set up HTML basics and contents.

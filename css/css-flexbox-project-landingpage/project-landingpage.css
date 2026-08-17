@@ -1,0 +1,42 @@
+@import url('https://googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #1F2937;
+}
+
+.headerLogo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.heroMain {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.heroSecondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button, .calltoaction {
+    background-color: #3882F6;
+}
+
+.informationHeading {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.quote {
+    background-color: #EBE7EB;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
