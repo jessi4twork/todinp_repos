@@ -2,12 +2,15 @@
 
 body {
     padding: 0;
-    margin: 0 200px;
+    margin: 0;
     font-family: 'Roboto', sans-serif;
     background-color: #1F2937;
 }
 
 header {
+    padding: 1px 200px ;
+    margin: 0;
+
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -28,15 +31,20 @@ ul {
     gap: 20px;
 }
 
-section {
+section.darkBackground {
+    padding: 100px 200px ;
+    margin: 0;
+    background-color: #1F2937;
+
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 20px;
 }
 
-section > div {
+section.darkBackground > div{
     flex: 1;
+    width: 50%;
 }
 
 .heroMain {
@@ -68,20 +76,59 @@ button, .call2action {
     background-color: #6B7280;
     padding: 100px 20px;
     margin: 0;
+
     display: flex;
     align-items: center;
     justify-content: center;
+
+    width: 100%;
 }
 
-.whiteBackground {
-    background-color: #F9FAF8;
-    padding: 20px;
+section.lightBackground {
+    padding: 1px 200px ;
+    margin: 0;
+    background-color: #F1F5FF;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+section.lightBackground > div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
 }
 
 .informationHeading {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
+}
+
+.subtextBoxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+
+.subtextBoxes figure {
+    margin: 10px 10px 100px 10px;
+    text-align: center;
+}
+
+.subtextBoxes span {
+    width: 150px;
+    height: 150px;
+    border: 4px solid #3882F6;
+    border-radius: 12px;
+    background-color: #F1F5FF;
+    display: inline-block;
 }
 
 .quote {
