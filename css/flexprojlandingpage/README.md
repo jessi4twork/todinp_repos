@@ -2,9 +2,15 @@
 
 ##Project Journal (recent first)
 
+
+###August 21, 2026 (part 2)
+* Adjusted last section call-to-action block to utilize a row-wrap flex layout that tightly groups h2 and p element.
+* Implemented negative margins on h2 to fine-tune and close vertical gap between p element.
+* Standardized footer padding and centered copyright using clear horizontal Flex box structure.
+
 ###August 21, 2026
 * Updated quote section background color and custom spacing.
-* Converted quote section into column flexbox container with consistent row spacing.
+* Converted quote section into column Flex box container with consistent row spacing.
 * Fixed author text alignment, pushing it to the right edge.
 
 ###August 19, 2026 (part 2)
